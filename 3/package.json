@@ -2,7 +2,7 @@
   "name": "spiral-memory",
   "version": "1.0.0",
   "description": "AoC 2017 Day 3: Spiral Memory",
-  "main": "distance-to-origin.js",
+  "main": "index.js",
   "license": "MIT",
   "scripts": {
     "test": "ava"
