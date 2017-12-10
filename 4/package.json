@@ -1,0 +1,13 @@
+{
+  "name": "passphrases",
+  "version": "1.0.0",
+  "description": "AoC 2017 Day 4: High-Entropy Passphrases",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^0.24.0"
+  }
+}
